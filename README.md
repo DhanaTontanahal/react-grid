@@ -1,6 +1,11 @@
 # react-grid-
 This repo is private, if you want more details email me at urwithdhanu@gmail.com
 
+#Working Demo 
+
+https://www.youtube.com/watch?v=NkBYlST2Jkk
+
+
 React Table wrapper with column chooser / dynamic context menu to show/hide columns dynamically ,
 
 sticky columns
